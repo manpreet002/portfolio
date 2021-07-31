@@ -1,37 +1,18 @@
 ## Welcome to KnowMe
 
-I am Manpreet Kaur, learning Data Science for my passion.
+Hi! I am Manpreet Kaur, I was bour and raised in India and currently living in Canada. I am learning Data Science for my passion. If you like data science too, don't hesitate to reach out to me. we can have great fun learning together. 
 
-Follow the links on the website to know more. 
+Follow the links on this website to know more about my projects. 
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### About me
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manpreet002/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://www.linkedin.com/in/manpreet-kaur-3a53b4ab/"> Linked in
