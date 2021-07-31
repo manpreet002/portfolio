@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to KnowMe
 
-You can use the [editor on GitHub](https://github.com/manpreet002/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Manpreet Kaur, learning Data Science for my passion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Follow the links on the website to know more. 
 
 ### Markdown
 
